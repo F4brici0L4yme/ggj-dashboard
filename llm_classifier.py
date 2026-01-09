@@ -154,21 +154,27 @@ Responde SOLO con: Alto, Medio o Bajo"""
 
 "{texto}"
 
-Identifica y lista TODAS las herramientas, tecnologías y skills técnicas mencionadas.
-Incluye: game engines, lenguajes de programación, software de arte/audio, frameworks, etc.
+Extrae SOLAMENTE las herramientas, tecnologías y skills técnicas que estén EXPLÍCITAMENTE MENCIONADAS en el texto.
 
-Ejemplos: Unity, Unreal, Godot, C#, Python, Blender, Photoshop, Git, etc.
+IMPORTANTE: 
+- Si NO se menciona ninguna herramienta técnica específica, responde SOLO con: NINGUNA
+- SOLO incluye términos que aparezcan literalmente en el texto
+- Incluye: game engines (Unity, Unreal, Godot), lenguajes (C#, Python, Java, JavaScript), software (Blender, Photoshop, Maya, Illustrator), herramientas (Git, GitHub)
 
-Responde SOLO con una lista separada por comas, sin numeración ni texto adicional.
-Ejemplo: Unity, C#, Blender"""
+Responde con una lista separada por comas, sin numeración ni texto adicional.
+Ejemplo si hay skills: Unity, C#, Blender
+Ejemplo si no hay skills: NINGUNA"""
         
         respuesta = self._query_llama(prompt, max_tokens=100)
+        
+        if "NINGUNA" in respuesta or "ninguna" in respuesta.lower():
+            return []
         
         skills = [s.strip() for s in respuesta.split(',')]
         
         skills_limpias = []
         for skill in skills:
-            if len(skill) < 30 and not any(word in skill.lower() for word in ['ejemplo', 'respuesta', 'texto', 'sin', 'etc']):
+            if len(skill) < 30 and not any(word in skill.lower() for word in ['ejemplo', 'respuesta', 'texto', 'sin', 'etc', 'ninguna']):
                 skills_limpias.append(skill)
         
         return skills_limpias[:15]

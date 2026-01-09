@@ -72,12 +72,18 @@ class DataProcessor:
         def mapear_nivel(valor):
             if pd.isna(valor):
                 return "No especificado"
-            elif valor <= 2:
-                return "Principiante"
-            elif valor <= 4:
-                return "Intermedio"
+            elif valor == 1:
+                return "1"
+            elif valor == 2:
+                return "2"
+            elif valor == 3:
+                return "3"
+            elif valor == 4:
+                return "4"
+            elif valor == 5:
+                return "5"
             else:
-                return "Avanzado"
+                return "No especificado"
         
         self.df['categoria_experiencia'] = self.df['nivel_experiencia'].apply(mapear_nivel)
         
@@ -159,8 +165,11 @@ class DataProcessor:
     def get_skills_distribution(self):
         all_skills = []
         for skills_list in self.df['skills']:
-            if isinstance(skills_list, list):
+            if isinstance(skills_list, list) and len(skills_list) > 0:
                 all_skills.extend(skills_list)
+        
+        if not all_skills:
+            return pd.Series(dtype=int)
         
         skills_series = pd.Series(all_skills)
         return skills_series.value_counts().head(15)
@@ -191,12 +200,15 @@ class DataProcessor:
         return alerts
     
     def get_perfil_participantes(self) -> dict:
+        skills_dist = self.get_skills_distribution()
+        top_skills = {str(k): int(v) for k, v in skills_dist.head(5).to_dict().items()} if len(skills_dist) > 0 else {}
+        
         return {
-            "porcentaje_principiantes": float((self.df['categoria_experiencia'] == "Principiante").sum() / len(self.df) * 100),
+            "porcentaje_principiantes": float((self.df['categoria_experiencia'].isin(['1', '2'])).sum() / len(self.df) * 100),
             "porcentaje_principiantes_real": float((self.df['nivel_experiencia_real'] == "Principiante").sum() / len(self.df) * 100),
             "porcentaje_con_jams_previas": float((self.df['jams_previas'] > 0).sum() / len(self.df) * 100),
             "promedio_jams": float(self.df['jams_previas'].mean()),
-            "top_skills": {str(k): int(v) for k, v in self.get_skills_distribution().head(5).to_dict().items()},
+            "top_skills": top_skills,
             "motivacion_principal": str(self.df['categoria_motivacion'].mode()[0] if len(self.df['categoria_motivacion'].mode()) > 0 else "No especificado"),
             "compromiso_alto": float((self.df['compromiso'] == "Alto").sum() / len(self.df) * 100),
             "tiene_proyectos_pct": float((self.df['tiene_proyectos'] == True).sum() / len(self.df) * 100)
@@ -204,16 +216,10 @@ class DataProcessor:
     
     def get_portafolio_analysis(self) -> dict:
         con_portafolio = self.df[self.df['tiene_portafolio']]
-        destacados = self.df[
-            (self.df['tiene_portafolio']) & 
-            (self.df['nivel_experiencia_real'] == "Avanzado")
-        ]
         
         return {
             "total_con_portafolio": int(len(con_portafolio)),
-            "porcentaje": float((len(con_portafolio) / len(self.df)) * 100),
-            "participantes_destacados": int(len(destacados)),
-            "destacados_data": destacados[['Nombre(s)', 'Apellidos(s)', 'rol_1era_prioridad', 'nivel_experiencia_real', 'portafolio']].head(10).to_dict('records')
+            "porcentaje": float((len(con_portafolio) / len(self.df)) * 100)
         }
     
     def generate_recommendations(self) -> list:
@@ -243,7 +249,7 @@ class DataProcessor:
                 "mensaje": f"{perfil['porcentaje_principiantes_real']:.0f}% son principiantes. Considerar talleres introductorios y mentores."
             })
         
-        if perfil['top_skills']:
+        if perfil['top_skills'] and len(perfil['top_skills']) > 0:
             top_skill = list(perfil['top_skills'].keys())[0]
             recomendaciones.append({
                 "tipo": "TÉCNICO",
