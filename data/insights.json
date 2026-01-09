@@ -1,0 +1,71 @@
+{
+  "kpis": {
+    "total_inscritos": 43,
+    "edad_promedio": 23.523809523809526,
+    "porcentaje_portafolio": 55.81395348837209
+  },
+  "perfil": {
+    "porcentaje_principiantes": 53.48837209302325,
+    "porcentaje_principiantes_real": 88.37209302325581,
+    "porcentaje_con_jams_previas": 23.25581395348837,
+    "promedio_jams": 0.32558139534883723,
+    "top_skills": {
+      "C#": 41,
+      "Unity": 40,
+      "Photoshop": 36,
+      "Blender": 35,
+      "Python": 34
+    },
+    "motivacion_principal": "Pasion_videojuegos",
+    "compromiso_alto": 97.67441860465115,
+    "tiene_proyectos_pct": 44.18604651162791
+  },
+  "portafolio_analysis": {
+    "total_con_portafolio": 24,
+    "porcentaje": 55.81395348837209,
+    "participantes_destacados": 0,
+    "destacados_data": []
+  },
+  "alerts": [
+    {
+      "nivel": "BAJO",
+      "rol": "Guión/Narrativa",
+      "cantidad": 4,
+      "mensaje": "BAJO: Solo 4 personas en Guión/Narrativa"
+    },
+    {
+      "nivel": "CRÍTICO",
+      "rol": "Música y/o efectos de sonido",
+      "cantidad": 1,
+      "mensaje": "CRÍTICO: Solo 1 persona(s) en Música y/o efectos de sonido"
+    },
+    {
+      "nivel": "CRÍTICO",
+      "rol": "Producción / Project management",
+      "cantidad": 1,
+      "mensaje": "CRÍTICO: Solo 1 persona(s) en Producción / Project management"
+    }
+  ],
+  "recomendaciones": [
+    {
+      "tipo": "URGENTE",
+      "mensaje": "Hacer campaña de reclutamiento para: Música y/o efectos de sonido, Producción / Project management"
+    },
+    {
+      "tipo": "IMPORTANTE",
+      "mensaje": "Reforzar reclutamiento en: Guión/Narrativa"
+    },
+    {
+      "tipo": "EDUCATIVO",
+      "mensaje": "88% son principiantes. Considerar talleres introductorios y mentores."
+    },
+    {
+      "tipo": "TÉCNICO",
+      "mensaje": "C# es la herramienta más mencionada. Asegurar soporte técnico."
+    },
+    {
+      "tipo": "LOGÍSTICO",
+      "mensaje": "Solo 23% tienen experiencia en jams. Preparar orientación detallada."
+    }
+  ]
+}
