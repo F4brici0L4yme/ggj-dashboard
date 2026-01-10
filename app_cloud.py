@@ -265,9 +265,17 @@ try:
     
     with col2:
         st.subheader("Nivel de Experiencia (1-5)")
+        # Convertir categoria_experiencia a string para asegurar consistencia
+        df['categoria_experiencia'] = df['categoria_experiencia'].astype(str)
         exp_counts = df['categoria_experiencia'].value_counts()
+        
+        # Ordenar según los niveles esperados
         orden_exp = ['1', '2', '3', '4', '5']
         exp_ordenado = exp_counts.reindex(orden_exp, fill_value=0)
+        
+        # Debug: mostrar valores si está vacío
+        if exp_ordenado.sum() == 0:
+            st.warning(f"Debug: valores únicos en categoria_experiencia: {df['categoria_experiencia'].unique()}")
         
         fig_exp = px.bar(
             x=exp_ordenado.index,
@@ -283,8 +291,6 @@ try:
             showlegend=False
         )
         st.plotly_chart(fig_exp, use_container_width=True)
-    
-    col3, col4 = st.columns(2)
     
     with col3:
         st.subheader("Distribución de Edades")
