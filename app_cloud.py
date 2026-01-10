@@ -264,17 +264,23 @@ try:
         st.plotly_chart(fig_roles, use_container_width=True)
     
     with col2:
-        st.subheader("Nivel de Experiencia")
-        exp_dist = df['categoria_experiencia'].value_counts()
-        fig_exp = px.pie(
-            values=exp_dist.values,
-            names=exp_dist.index,
-            color_discrete_sequence=['#ef4444', '#f59e0b', '#10b981']
+        st.subheader("Nivel de Experiencia (1-5)")
+        exp_counts = df['categoria_experiencia'].value_counts()
+        orden_exp = ['1', '2', '3', '4', '5']
+        exp_ordenado = exp_counts.reindex(orden_exp, fill_value=0)
+        
+        fig_exp = px.bar(
+            x=exp_ordenado.index,
+            y=exp_ordenado.values,
+            labels={'x': 'Nivel', 'y': 'Cantidad'},
+            color=exp_ordenado.values,
+            color_continuous_scale='RdYlGn'
         )
         fig_exp.update_layout(
             height=400,
             plot_bgcolor='rgba(0,0,0,0)',
-            paper_bgcolor='rgba(0,0,0,0)'
+            paper_bgcolor='rgba(0,0,0,0)',
+            showlegend=False
         )
         st.plotly_chart(fig_exp, use_container_width=True)
     
@@ -342,31 +348,38 @@ try:
         st.plotly_chart(fig_comp, use_container_width=True)
     
     with col6:
-        st.subheader("Top Skills Técnicas")
+        st.subheader("Skills Técnicas Mencionadas")
         all_skills = []
         for skills_str in df['skills'].dropna():
             if isinstance(skills_str, str) and skills_str.startswith('['):
-                skills_list = eval(skills_str)
-                all_skills.extend(skills_list)
+                try:
+                    skills_list = eval(skills_str)
+                    if isinstance(skills_list, list):
+                        all_skills.extend(skills_list)
+                except:
+                    pass
         
-        skills_series = pd.Series(all_skills)
-        skills_dist = skills_series.value_counts().head(10)
-        
-        fig_skills = px.bar(
-            x=skills_dist.values,
-            y=skills_dist.index,
-            orientation='h',
-            labels={'x': 'Menciones', 'y': ''},
-            color=skills_dist.values,
-            color_continuous_scale='Oranges'
-        )
-        fig_skills.update_layout(
-            showlegend=False, 
-            height=400,
-            plot_bgcolor='rgba(0,0,0,0)',
-            paper_bgcolor='rgba(0,0,0,0)'
-        )
-        st.plotly_chart(fig_skills, use_container_width=True)
+        if all_skills:
+            skills_series = pd.Series(all_skills)
+            skills_dist = skills_series.value_counts().head(10)
+            
+            fig_skills = px.bar(
+                x=skills_dist.values,
+                y=skills_dist.index,
+                orientation='h',
+                labels={'x': 'Menciones', 'y': ''},
+                color=skills_dist.values,
+                color_continuous_scale='Oranges'
+            )
+            fig_skills.update_layout(
+                showlegend=False, 
+                height=400,
+                plot_bgcolor='rgba(0,0,0,0)',
+                paper_bgcolor='rgba(0,0,0,0)'
+            )
+            st.plotly_chart(fig_skills, use_container_width=True)
+        else:
+            st.info("No se encontraron skills técnicas mencionadas explícitamente en las respuestas.")
     
     st.markdown("---")
     
@@ -382,7 +395,7 @@ try:
         <div class="insight-card">
             <div class="insight-title">Perfil de Participantes</div>
         """, unsafe_allow_html=True)
-        st.write(f"Principiantes (declarado): **{perfil['porcentaje_principiantes']:.1f}%**")
+        st.write(f"Nivel 1-2 (declarado): **{perfil['porcentaje_principiantes']:.1f}%**")
         st.write(f"Principiantes (análisis): **{perfil['porcentaje_principiantes_real']:.1f}%**")
         st.write(f"Con experiencia en jams: **{perfil['porcentaje_con_jams_previas']:.1f}%**")
         st.write(f"Promedio de jams: **{perfil['promedio_jams']:.1f}**")
@@ -394,10 +407,13 @@ try:
     with col2:
         st.markdown("""
         <div class="insight-card">
-            <div class="insight-title">Top Skills</div>
+            <div class="insight-title">Top Skills Mencionadas</div>
         """, unsafe_allow_html=True)
-        for skill, count in perfil['top_skills'].items():
-            st.write(f"• {skill}: {count} menciones")
+        if perfil['top_skills']:
+            for skill, count in perfil['top_skills'].items():
+                st.write(f"• {skill}: {count} menciones")
+        else:
+            st.write("No se encontraron skills mencionadas")
         st.markdown("</div>", unsafe_allow_html=True)
     
     with col3:
@@ -406,7 +422,6 @@ try:
             <div class="insight-title">Análisis de Portafolios</div>
         """, unsafe_allow_html=True)
         st.write(f"Total con portafolio: **{portafolio_analysis['total_con_portafolio']}** ({portafolio_analysis['porcentaje']:.1f}%)")
-        st.write(f"Participantes destacados: **{portafolio_analysis['participantes_destacados']}**")
         st.markdown("</div>", unsafe_allow_html=True)
     
     st.markdown("---")
