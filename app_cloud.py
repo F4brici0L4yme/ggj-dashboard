@@ -292,6 +292,8 @@ try:
         )
         st.plotly_chart(fig_exp, use_container_width=True)
     
+    col3, col4 = st.columns(2)
+    
     with col3:
         st.subheader("Distribución de Edades")
         orden = ["< 20", "20-24", "25-29", "30+"]
