@@ -1,5 +1,28 @@
 {
   "motivaciones": {
+    "Anteriormente ya había participado en una; es un ambiente muy bonito, conoces gente con tus mismos intereses y la pasas bien desarrollando algo en conjunto. No sabía que en arequipa se organizaban este tipo de eventos.": "Networking",
+    "Adoro crear tecnología. Quiero iniciarme en el mundo de desarrollo y modding.": "Aprendizaje",
+    "Para aprender acerca de los videojuegos, las desiciones que se deben hacer para crear un videojuego, el trabajo en equipo y en si como se crea un videojuego, me parece muy interesante.": "Pasion_videojuegos",
+    "Deseo participar en la Global Game Jam Arequipa porque es una oportunidad única para aprender, colaborar con personas apasionadas por el desarrollo de videojuegos y retarme a crear un proyecto en un tiempo limitado. Me motiva mejorar mis habilidades, compartir ideas y vivir la experiencia de trabajar en equipo bajo presión creativa.": "Pasion_videojuegos",
+    "Me encantan los juegos, he creado antes y me gustaría conectar con personas de Arequipa que tengas el mismo interés.": "Networking",
+    "Participe en algún edición allá por el 2014, y me quedé con ganas de más ": "Pasion_videojuegos",
+    "Soy gamer empedernido, siempre quise aportar en la creación de un videojuego pero no se donde encajan mis habilidades y aportes, talvez aqui lo descubra, quiero socializar con más personas de este ambiente.": "Networking",
+    "Para ganar más experiencia ": "Pasion_videojuegos",
+    "Soy aposionado por los videojuegos desde pequeño y siempre tuve ganas de participar en un evento dedicado al desarrollo de videojuegos.": "Pasion_videojuegos",
+    "Para compartir experiencia y conocimiento así como conocer nuevos desarrolladores que les guste desarrollar videojuegos como a mi.": "Networking",
+    "Para poder realizar un nuevo juego y participar en otra gamejam de Arequipa y o tener experiencia ": "Pasion_videojuegos",
+    "Porque me llama la atención la programación de videojuegos.": "Pasion_videojuegos",
+    "Me interesa los vídeos juegos y mis amigos participan ": "Pasion_videojuegos",
+    "Para contribuir y desarrollar junto a amigos y conocer nuevas personas": "Networking",
+    "Porque me encantan los videojuegos, y desde que aprendi lo básico para crear videojuegos con Unity he querido participar en un evento asi, quizas no sea un profesional, ni tenga buena experiencia pero tengo muchisimas ganas de participar en este evento.": "Pasion_videojuegos",
+    "Me motiva mucho integrarme activamente a la comunidad Tech de Arequipa para compartir experiencias. Además, tengo un interés especial en adentrarme en el mundo del desarrollo de videojuegos y entender cómo funciona esa industria desde adentro.": "Pasion_videojuegos",
+    "Quiero divertirme y aprender mas del desarrollo de Juegos": "Pasion_videojuegos",
+    "Para adquirir mas conocimienro sobre el entorno de videojuegos y compartir experiencias con otros desarrolladores": "Networking",
+    "Soy desarollador vr y r realizando aplicativos para empresas mineras y de hoby realizó juegos": "Pasion_videojuegos",
+    "Quiero participar en la jam porque me gustan tanto los juegos como la programación y el desarrollo. Más específicamente, el evento me dejará aplicar mis habilidades técnicas en algo creativo que me apasiona. Además, me parece una buena oportunidad para aprender, trabajar en equipo y hacer networking.": "Pasion_videojuegos",
+    "Porque me gusta el desarrollo de videojuegos y sería un gran apoyo a mi experiencia como desarrollador además de conocer a más personas y aumentar mi circulo social dentro de este área": "Pasion_videojuegos",
+    "Soy una persona apasionada a los videojuegos, así que espacios como estos permiten a personas poder improvisar y participar de un proyecto pequeño sin muchas pretensiones más que la creativa": "Pasion_videojuegos",
+    "para conocer gente del medio salir un poco de mi rutina un rato y aprovechando que tengo tiempo libre por ahora talvez les interese mi trabajo ": "Networking",
     "Se me hace muy interesante el hecho de poder desarrollar un proyecto de manera colaborativa y además con un enfoque que me llama bastante la atención.": "Pasion_videojuegos",
     "Quiero introducirme en la industria de videojuegos y conocer nuevas personas. ": "Networking",
     "porque me gustaria retarme a mi mismo desarrollando un videojuego en un corto tiempo": "Reto_personal",
@@ -8,7 +31,7 @@
     "Me interesa bastante aprender nuevas habilidades, principalmente si tienen que ver con videojuegos ": "Aprendizaje",
     "Me interesa mucho el desarrollo de video juegos y quiero ganar más experiencia. También quiero conocer gente que está inmensa en el rubro. ": "Pasion_videojuegos",
     "Siempre me interesó la programación orientada a objetos, pero pocas veces tuve la oportunidad de desafiarme a mi mismo, me interesa mostrar lo que puedo hacer y brindar un juego que sea del agrado del usuario.": "Reto_personal",
-    "Quiero conectar con más personas del rubro y sobre todo con quienes me pueda complementar, como diseñadora frontend me gustaría conectar con un equipo de desarrollo de juegos backend además de otros panas con roles necesarios.\n\nMe gustaría crear y aprender más sobre videojuegos.": "Networking",
+    "Quiero conectar con más personas del rubro y sobre todo con quienes me pueda complementar, como diseñadora frontend me gustaría conectar con un equipo de desarrollo de juegos backend además de otros panas con roles necesarios.\r\n\r\nMe gustaría crear y aprender más sobre videojuegos.": "Networking",
     "Me gusta el campo de creación de videojuegos ": "Pasion_videojuegos",
     "me interesan los juegos de mesa y quisiera saber como crear uno": "Aprendizaje",
     "Me parece que es una forma de hacer networking y aprender en equipo": "Networking",
@@ -27,7 +50,7 @@
     "Me interesa la industria de los videojuegos, siento que estos son un tipo de arte, bien hecho pueden contar buenas historias y transmitir todo tipo de emociones, quiero dedicarme a esto a futuro y por ello necesito conseguir experiencia. Esta es mi oportunidad": "Pasion_videojuegos",
     "Quiero poner a prueba mis habilidades artisticas y de programacion, ademas de que me emociona mucho el formar parte de la creacion de un videojuego y tambien conocer gente nueva en el trayecto.": "Pasion_videojuegos",
     "Me interesa el mundo del desarrollo de videojuegos y creo que esta experiencia podría ser muy enriquecedora": "Pasion_videojuegos",
-    "Para demostrar mis habilidades en el juego tanto en pc ps4 y celular": "Pasion_videojuegos",
+    "Para demostrar mis habilidades en el juego tanto en pc ps4 y celular": "Reto_personal",
     "Porque me parece un evento muy importante en todo el ecosistema tech de Arequipa y me entusiasma enormemente poder conformar parte de un equipo creativo y colaborativo y crear un juego desde cero.": "Pasion_videojuegos",
     "Quiero un desafío para mi rubro, artista gráfico digital,": "Reto_personal",
     "Networking": "Networking",
@@ -36,7 +59,7 @@
     "Me interesa llegar a ser developer y estoy llevando un curso de data science y programacion": "Aprendizaje",
     "Porque considero este evento una oportunidad de conocer más tecnologias": "Aprendizaje",
     "Ganar mas experiencia en jams y desarrollar con mis amigos": "Pasion_videojuegos",
-    "Mi motivación principal es el networking y la colaboración interdisciplinaria. Actualmente estoy construyendo una marca personal en LinkedIn enfocada en tecnología y startups, y quiero conectar con el talento local de Arequipa para inspirar a otros desarrolladores.\n​Aunque mi fuerte es el desarrollo de WebApps e Inteligencia Artificial para negocios, quiero salir de mi zona de confort y explorar cómo mis habilidades técnicas pueden integrarse en el desarrollo de videojuegos, un área que siempre me ha fascinado pero que recién empiezo a tocar": "Networking",
+    "Mi motivación principal es el networking y la colaboración interdisciplinaria. Actualmente estoy construyendo una marca personal en LinkedIn enfocada en tecnología y startups, y quiero conectar con el talento local de Arequipa para inspirar a otros desarrolladores.\r\n​Aunque mi fuerte es el desarrollo de WebApps e Inteligencia Artificial para negocios, quiero salir de mi zona de confort y explorar cómo mis habilidades técnicas pueden integrarse en el desarrollo de videojuegos, un área que siempre me ha fascinado pero que recién empiezo a tocar": "Networking",
     "Porque me interesa el evento": "Pasion_videojuegos",
     "Me interesa el evento y participar en esta linda experiencia": "Pasion_videojuegos",
     "Conocer a la comunidad arequipeña que le gusta los videojuegos": "Networking",
@@ -44,6 +67,121 @@
     "Deseo aprender y mejorar mis habilidades en el desarrollo de videojuegos, y también conocer nuevas personas a las que también les apasione el desarrollo de videojuegos": "Pasion_videojuegos"
   },
   "experiencias": {
+    "Tengo experiencia usando Godot, que justamente tuve que aprender para una JAM. Soy informático de profesión. Por mí parte en un equipo de desarrollo tendría que participar sí o sí en el apartado de programación.": {
+      "tiene_proyectos": true,
+      "jams_previas": 1,
+      "nivel_real": "Intermedio"
+    },
+    "Nula.": {
+      "tiene_proyectos": false,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "La verdad es que no tengo experiencia creando videojuegos pero si tengo interés porque siempre me pareció muy emocionante el imaginarme como se crea un videojuego, tambien creo que me interesa mucho porque yo juego muchos juegos y de alguna forma me da el interés de saber como se crean los videojuegos ": {
+      "tiene_proyectos": false,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "He trabajado en el desarrollo de juegos principalmente en proyectos pequeños y prototipos, participando en áreas como programación, diseño de mecánicas y pruebas. He utilizado motores como Unity y herramientas de control de versiones, y tengo experiencia trabajando en equipo bajo plazos cortos, lo que me ha permitido mejorar mis habilidades técnicas y creativas.": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "He desarrollado un videojuego P2E complejo antes, con uso en Nigeria principalmente, era un MMORPG de mundo abierto. Yo me encargué de dinámicas, economía y diseño 3D. También estoy desarrollando un juego de mesa versión cooperativa y competitiva.": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Intermedio"
+    },
+    " Hice pequeños jueguitos de genéricos, esos de tutorial. ": {
+      "tiene_proyectos": false,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "No he desarrollado nunca un videojuego, pero me gusta el arte que puede tener uno, la historia que puede contar.": {
+      "tiene_proyectos": false,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "En la creación de script, estructurar los niveles del proyecto.": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "He desarrollado un videojuego para cascos de realidad virtual, el cual fue parte de un curso llamado interaccion humano computador donde atraves de ciertos parametros mi grupo y yo desarrollamos un videojuego que cumpla con ellos": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "Participé en game jams de Gdevelop y de Level up, así como desarrollo un videojuego propio y me gusta jugar videojuegos de estrategia.": {
+      "tiene_proyectos": true,
+      "jams_previas": 2,
+      "nivel_real": "Principiante"
+    },
+    "He realizado juegos anteriormente en los cuales he sido finalistas en algunas jams como la Patrimonio Game Jam y ganador de la Volcán GameJam.": {
+      "tiene_proyectos": true,
+      "jams_previas": 2,
+      "nivel_real": "Intermedio"
+    },
+    "He participado en la anterior Global Game Jam.": {
+      "tiene_proyectos": false,
+      "jams_previas": 1,
+      "nivel_real": "Principiante"
+    },
+    "Soy principiante ": {
+      "tiene_proyectos": false,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "He desarrollado principalmente juegos XR pero también anteriormente participe en gamejams para juegos web o desktop": {
+      "tiene_proyectos": true,
+      "jams_previas": 2,
+      "nivel_real": "Principiante"
+    },
+    "Tengo poca experiencia en la creación de videojuegos, cree algunos en Unity con estadisticas y diferentes niveles, asi como diseñe personajes con LibreSprite mas que todo pixelados.": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "Pues he visto ciertos tutoriales para C y unity, pero nada practico": {
+      "tiene_proyectos": false,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "Tengo experiencia un poco de experiencia en desarrollo de videojuegos usando el motor de Unity por algunos proyectos de la U.": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "He participado anteriormente en otros eventos de hackathones y tambien de game jam, como de la CVA": {
+      "tiene_proyectos": true,
+      "jams_previas": 2,
+      "nivel_real": "Intermedio"
+    },
+    "Tengo 3 años de experiencia en un real y junior en modelado aún me faltan años para dominar el motor pero ya soy capas de crear videojuegos con optimizaciones para android": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "He participado de varias game jams en itch.io y de las dos anteriores Global Game Jams Arequipa. Tengo algunos juegos cortos en itch.io y algunos proyectos en desarrollo. Me especializo en programación y game design.": {
+      "tiene_proyectos": true,
+      "jams_previas": 2,
+      "nivel_real": "Intermedio"
+    },
+    "básico, intermedio. Ya participe en otras game jams": {
+      "tiene_proyectos": true,
+      "jams_previas": 1,
+      "nivel_real": "Intermedio"
+    },
+    "Realmente e tenido poca experiencia, solo con pequeños proyectos finales en la universidad": {
+      "tiene_proyectos": true,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
+    "soy 3D artist me gusta hacer modelos 3D  específicamente para videojuegos no e trabajado pero cosas similares si ": {
+      "tiene_proyectos": false,
+      "jams_previas": 0,
+      "nivel_real": "Principiante"
+    },
     "No tengo ninguna experiencia al momento de desarrollar videojuegos, he hecho proyectos pequeños pero más de eso no he hecho.": {
       "tiene_proyectos": true,
       "jams_previas": 0,
@@ -84,7 +222,7 @@
       "jams_previas": 1,
       "nivel_real": "Principiante"
     },
-    "Tuve la experiencia participando en una game board Jam, donde aprendí más sobre la mecánica de los juegos.\nY como proyecto personal desarrollé juegos de mesa e implementé un sistema de gamificación en mi trabajo. Del mismo modo tengo proyectos de aplicaciones móviles con los que participé en hackatones donde implementé características de la gamificación.\n\nPero sobre todo tengo una alta experiencia en diseño de productos multimedia respecto a frontend.": {
+    "Tuve la experiencia participando en una game board Jam, donde aprendí más sobre la mecánica de los juegos.\r\nY como proyecto personal desarrollé juegos de mesa e implementé un sistema de gamificación en mi trabajo. Del mismo modo tengo proyectos de aplicaciones móviles con los que participé en hackatones donde implementé características de la gamificación.\r\n\r\nPero sobre todo tengo una alta experiencia en diseño de productos multimedia respecto a frontend.": {
       "tiene_proyectos": true,
       "jams_previas": 2,
       "nivel_real": "Intermedio"
@@ -184,13 +322,13 @@
       "jams_previas": 0,
       "nivel_real": "Principiante"
     },
-    "Desarrollo de un videojuego en Java como proyecto final académico.\n\nParticipación en el Global Game Jam 2025 (UCSP), contribuyendo al desarrollo de un videojuego en Godot bajo un entorno colaborativo y de tiempo limitado.\n\nCreación de un videojuego RTS 3D en Godot como proyecto académico del VI semestre.\n\nHabilidades: programación, diseño gráfico, composición musical y trabajo en equipo.": {
+    "Desarrollo de un videojuego en Java como proyecto final académico.\r\n\r\nParticipación en el Global Game Jam 2025 (UCSP), contribuyendo al desarrollo de un videojuego en Godot bajo un entorno colaborativo y de tiempo limitado.\r\n\r\nCreación de un videojuego RTS 3D en Godot como proyecto académico del VI semestre.\r\n\r\nHabilidades: programación, diseño gráfico, composición musical y trabajo en equipo.": {
       "tiene_proyectos": true,
-      "jams_previas": 2,
+      "jams_previas": 1,
       "nivel_real": "Intermedio"
     },
     "Desarrollo de animación ciclica en Juegos en adobe flash, esto ya hace unos años": {
-      "tiene_proyectos": true,
+      "tiene_proyectos": false,
       "jams_previas": 0,
       "nivel_real": "Principiante"
     },
@@ -215,7 +353,7 @@
       "nivel_real": "Principiante"
     },
     "He llevado cursos relacionados y tengo experiencia en desarrollo ": {
-      "tiene_proyectos": true,
+      "tiene_proyectos": false,
       "jams_previas": 0,
       "nivel_real": "Principiante"
     },
@@ -224,7 +362,7 @@
       "jams_previas": 1,
       "nivel_real": "Principiante"
     },
-    "Tengo experiencia liderando ciclos de desarrollo de software como Product Manager y Fundador de una startup tecnológica. Mi experiencia técnica está en WebApps e IA, pero mi mayor aporte es la capacidad de gestionar el alcance (scope), resolver problemas técnicos bajo presión y asegurar el 'delivery'.\n​Puedo programar lógica general y backend, pero sobre todo busco aportar visión de producto para lograr que el equipo termine un juego pulido y funcional dentro del límite de tiempo, aprendiendo de las herramientas de juego en el proceso.": {
+    "Tengo experiencia liderando ciclos de desarrollo de software como Product Manager y Fundador de una startup tecnológica. Mi experiencia técnica está en WebApps e IA, pero mi mayor aporte es la capacidad de gestionar el alcance (scope), resolver problemas técnicos bajo presión y asegurar el 'delivery'.\r\n​Puedo programar lógica general y backend, pero sobre todo busco aportar visión de producto para lograr que el equipo termine un juego pulido y funcional dentro del límite de tiempo, aprendiendo de las herramientas de juego en el proceso.": {
       "tiene_proyectos": true,
       "jams_previas": 0,
       "nivel_real": "Intermedio"
@@ -256,6 +394,29 @@
     }
   },
   "compromisos": {
+    "Anteriormente ya había participado en una; es un ambiente muy bonito, conoces gente con tus mismos intereses y la pasas bien desarrollando algo en conjunto. No sabía que en arequipa se organizaban este tipo de eventos. Tengo experiencia usando Godot, que justamente tuve que aprender para una JAM. Soy informático de profesión. Por mí parte en un equipo de desarrollo tendría que participar sí o sí en el apartado de programación.": "Alto",
+    "Adoro crear tecnología. Quiero iniciarme en el mundo de desarrollo y modding. Nula.": "Alto",
+    "Para aprender acerca de los videojuegos, las desiciones que se deben hacer para crear un videojuego, el trabajo en equipo y en si como se crea un videojuego, me parece muy interesante. La verdad es que no tengo experiencia creando videojuegos pero si tengo interés porque siempre me pareció muy emocionante el imaginarme como se crea un videojuego, tambien creo que me interesa mucho porque yo juego muchos juegos y de alguna forma me da el interés de saber como se crean los videojuegos ": "Alto",
+    "Deseo participar en la Global Game Jam Arequipa porque es una oportunidad única para aprender, colaborar con personas apasionadas por el desarrollo de videojuegos y retarme a crear un proyecto en un tiempo limitado. Me motiva mejorar mis habilidades, compartir ideas y vivir la experiencia de trabajar en equipo bajo presión creativa. He trabajado en el desarrollo de juegos principalmente en proyectos pequeños y prototipos, participando en áreas como programación, diseño de mecánicas y pruebas. He utilizado motores como Unity y herramientas de control de versiones, y tengo experiencia trabajando en equipo bajo plazos cortos, lo que me ha permitido mejorar mis habilidades técnicas y creativas.": "Alto",
+    "Me encantan los juegos, he creado antes y me gustaría conectar con personas de Arequipa que tengas el mismo interés. He desarrollado un videojuego P2E complejo antes, con uso en Nigeria principalmente, era un MMORPG de mundo abierto. Yo me encargué de dinámicas, economía y diseño 3D. También estoy desarrollando un juego de mesa versión cooperativa y competitiva.": "Alto",
+    "Participe en algún edición allá por el 2014, y me quedé con ganas de más   Hice pequeños jueguitos de genéricos, esos de tutorial. ": "Alto",
+    "Soy gamer empedernido, siempre quise aportar en la creación de un videojuego pero no se donde encajan mis habilidades y aportes, talvez aqui lo descubra, quiero socializar con más personas de este ambiente. No he desarrollado nunca un videojuego, pero me gusta el arte que puede tener uno, la historia que puede contar.": "Alto",
+    "Para ganar más experiencia  En la creación de script, estructurar los niveles del proyecto.": "Alto",
+    "Soy aposionado por los videojuegos desde pequeño y siempre tuve ganas de participar en un evento dedicado al desarrollo de videojuegos. He desarrollado un videojuego para cascos de realidad virtual, el cual fue parte de un curso llamado interaccion humano computador donde atraves de ciertos parametros mi grupo y yo desarrollamos un videojuego que cumpla con ellos": "Alto",
+    "Para compartir experiencia y conocimiento así como conocer nuevos desarrolladores que les guste desarrollar videojuegos como a mi. Participé en game jams de Gdevelop y de Level up, así como desarrollo un videojuego propio y me gusta jugar videojuegos de estrategia.": "Alto",
+    "Para poder realizar un nuevo juego y participar en otra gamejam de Arequipa y o tener experiencia  He realizado juegos anteriormente en los cuales he sido finalistas en algunas jams como la Patrimonio Game Jam y ganador de la Volcán GameJam.": "Alto",
+    "Porque me llama la atención la programación de videojuegos. He participado en la anterior Global Game Jam.": "Alto",
+    "Me interesa los vídeos juegos y mis amigos participan  Soy principiante ": "Alto",
+    "Para contribuir y desarrollar junto a amigos y conocer nuevas personas He desarrollado principalmente juegos XR pero también anteriormente participe en gamejams para juegos web o desktop": "Alto",
+    "Porque me encantan los videojuegos, y desde que aprendi lo básico para crear videojuegos con Unity he querido participar en un evento asi, quizas no sea un profesional, ni tenga buena experiencia pero tengo muchisimas ganas de participar en este evento. Tengo poca experiencia en la creación de videojuegos, cree algunos en Unity con estadisticas y diferentes niveles, asi como diseñe personajes con LibreSprite mas que todo pixelados.": "Alto",
+    "Me motiva mucho integrarme activamente a la comunidad Tech de Arequipa para compartir experiencias. Además, tengo un interés especial en adentrarme en el mundo del desarrollo de videojuegos y entender cómo funciona esa industria desde adentro. Pues he visto ciertos tutoriales para C y unity, pero nada practico": "Alto",
+    "Quiero divertirme y aprender mas del desarrollo de Juegos Tengo experiencia un poco de experiencia en desarrollo de videojuegos usando el motor de Unity por algunos proyectos de la U.": "Alto",
+    "Para adquirir mas conocimienro sobre el entorno de videojuegos y compartir experiencias con otros desarrolladores He participado anteriormente en otros eventos de hackathones y tambien de game jam, como de la CVA": "Alto",
+    "Soy desarollador vr y r realizando aplicativos para empresas mineras y de hoby realizó juegos Tengo 3 años de experiencia en un real y junior en modelado aún me faltan años para dominar el motor pero ya soy capas de crear videojuegos con optimizaciones para android": "Alto",
+    "Quiero participar en la jam porque me gustan tanto los juegos como la programación y el desarrollo. Más específicamente, el evento me dejará aplicar mis habilidades técnicas en algo creativo que me apasiona. Además, me parece una buena oportunidad para aprender, trabajar en equipo y hacer networking. He participado de varias game jams en itch.io y de las dos anteriores Global Game Jams Arequipa. Tengo algunos juegos cortos en itch.io y algunos proyectos en desarrollo. Me especializo en programación y game design.": "Alto",
+    "Porque me gusta el desarrollo de videojuegos y sería un gran apoyo a mi experiencia como desarrollador además de conocer a más personas y aumentar mi circulo social dentro de este área básico, intermedio. Ya participe en otras game jams": "Alto",
+    "Soy una persona apasionada a los videojuegos, así que espacios como estos permiten a personas poder improvisar y participar de un proyecto pequeño sin muchas pretensiones más que la creativa Realmente e tenido poca experiencia, solo con pequeños proyectos finales en la universidad": "Alto",
+    "para conocer gente del medio salir un poco de mi rutina un rato y aprovechando que tengo tiempo libre por ahora talvez les interese mi trabajo  soy 3D artist me gusta hacer modelos 3D  específicamente para videojuegos no e trabajado pero cosas similares si ": "Alto",
     "Se me hace muy interesante el hecho de poder desarrollar un proyecto de manera colaborativa y además con un enfoque que me llama bastante la atención. No tengo ninguna experiencia al momento de desarrollar videojuegos, he hecho proyectos pequeños pero más de eso no he hecho.": "Alto",
     "Quiero introducirme en la industria de videojuegos y conocer nuevas personas.  En videojuegos he participado en jams virtuales de 48 horas, como me quiero focalizar en el arte tengo un conocimiento básico de como funciona. ": "Alto",
     "porque me gustaria retarme a mi mismo desarrollando un videojuego en un corto tiempo tengo una experiencia basica en desarrollo de videojuegos en la carrera hice algunos en scratch": "Alto",
@@ -264,7 +425,7 @@
     "Me interesa bastante aprender nuevas habilidades, principalmente si tienen que ver con videojuegos  Realize con un equipo un proyecto con pygame juegos retro sencillos porque era nuevo para nosotros ": "Alto",
     "Me interesa mucho el desarrollo de video juegos y quiero ganar más experiencia. También quiero conocer gente que está inmensa en el rubro.  Tengo experiencia desarrollando video juegos como proyectos universitarios. Todos son bastante pequeños y con fines académicos. ": "Alto",
     "Siempre me interesó la programación orientada a objetos, pero pocas veces tuve la oportunidad de desafiarme a mi mismo, me interesa mostrar lo que puedo hacer y brindar un juego que sea del agrado del usuario. Cuando recién aprendía a programar recree el juego Snake en Python, fue bastante simple y tenía mucho margen de mejora, también participe en un evento competitivo de la ACM donde debías darle un comportamiento a una nave para ser la única que quede en pie, por falta de tiempo no pude presentar un bot destacable.": "Alto",
-    "Quiero conectar con más personas del rubro y sobre todo con quienes me pueda complementar, como diseñadora frontend me gustaría conectar con un equipo de desarrollo de juegos backend además de otros panas con roles necesarios.\n\nMe gustaría crear y aprender más sobre videojuegos. Tuve la experiencia participando en una game board Jam, donde aprendí más sobre la mecánica de los juegos.\nY como proyecto personal desarrollé juegos de mesa e implementé un sistema de gamificación en mi trabajo. Del mismo modo tengo proyectos de aplicaciones móviles con los que participé en hackatones donde implementé características de la gamificación.\n\nPero sobre todo tengo una alta experiencia en diseño de productos multimedia respecto a frontend.": "Alto",
+    "Quiero conectar con más personas del rubro y sobre todo con quienes me pueda complementar, como diseñadora frontend me gustaría conectar con un equipo de desarrollo de juegos backend además de otros panas con roles necesarios.\r\n\r\nMe gustaría crear y aprender más sobre videojuegos. Tuve la experiencia participando en una game board Jam, donde aprendí más sobre la mecánica de los juegos.\r\nY como proyecto personal desarrollé juegos de mesa e implementé un sistema de gamificación en mi trabajo. Del mismo modo tengo proyectos de aplicaciones móviles con los que participé en hackatones donde implementé características de la gamificación.\r\n\r\nPero sobre todo tengo una alta experiencia en diseño de productos multimedia respecto a frontend.": "Alto",
     "Me gusta el campo de creación de videojuegos  Solo en la universidad ": "Alto",
     "me interesan los juegos de mesa y quisiera saber como crear uno Terminé la carrera de desarrollo de sistemas de información, no tengo mucha experiencia desarrollando juegos mas que los puede hacer en la carrera pero si es una rama que me gustaría explorar": "Alto",
     "Me parece que es una forma de hacer networking y aprender en equipo No tengo experiencia em videojiegos pero realizo apps mobiles y paginas web": "Alto",
@@ -284,7 +445,7 @@
     "Quiero poner a prueba mis habilidades artisticas y de programacion, ademas de que me emociona mucho el formar parte de la creacion de un videojuego y tambien conocer gente nueva en el trayecto. Tengo poca experiencia, participe en otra ggj el año pasado, y tambien he practicado un poco en mis tiempos libres": "Alto",
     "Me interesa el mundo del desarrollo de videojuegos y creo que esta experiencia podría ser muy enriquecedora No he hecho mucho, solo proyectos muy chicos.": "Alto",
     "Para demostrar mis habilidades en el juego tanto en pc ps4 y celular Si tengo experiencia jugando videojuegos": "Alto",
-    "Porque me parece un evento muy importante en todo el ecosistema tech de Arequipa y me entusiasma enormemente poder conformar parte de un equipo creativo y colaborativo y crear un juego desde cero. Desarrollo de un videojuego en Java como proyecto final académico.\n\nParticipación en el Global Game Jam 2025 (UCSP), contribuyendo al desarrollo de un videojuego en Godot bajo un entorno colaborativo y de tiempo limitado.\n\nCreación de un videojuego RTS 3D en Godot como proyecto académico del VI semestre.\n\nHabilidades: programación, diseño gráfico, composición musical y trabajo en equipo.": "Alto",
+    "Porque me parece un evento muy importante en todo el ecosistema tech de Arequipa y me entusiasma enormemente poder conformar parte de un equipo creativo y colaborativo y crear un juego desde cero. Desarrollo de un videojuego en Java como proyecto final académico.\r\n\r\nParticipación en el Global Game Jam 2025 (UCSP), contribuyendo al desarrollo de un videojuego en Godot bajo un entorno colaborativo y de tiempo limitado.\r\n\r\nCreación de un videojuego RTS 3D en Godot como proyecto académico del VI semestre.\r\n\r\nHabilidades: programación, diseño gráfico, composición musical y trabajo en equipo.": "Alto",
     "Quiero un desafío para mi rubro, artista gráfico digital, Desarrollo de animación ciclica en Juegos en adobe flash, esto ya hace unos años": "Alto",
     "Networking Lleve un máster en programación de videojuegos en Valencia España y el trabajado en diferentes lugares como programador pero nada de nivel AAA": "Alto",
     "Porque tengo un fuerte interés en la creación de videojuegos en general, y me gustaría participar de nuevo en una game jam Tengo conocimientos acerca de la creación de videojuegos viendo como los crean, sin embargo, no tengo mucha experiencia creando videojuegos como tal, pero si tengo un buen conocimiento en lo que es la lógica de un programa, ya que tiene que ver con la carrera que actualmente estudio": "Alto",
@@ -292,7 +453,7 @@
     "Me interesa llegar a ser developer y estoy llevando un curso de data science y programacion Poca o nula en videojuegos, mas que nada en juegos de Mesa y juegos de cartas (tcg)": "Alto",
     "Porque considero este evento una oportunidad de conocer más tecnologias He llevado cursos relacionados y tengo experiencia en desarrollo ": "Alto",
     "Ganar mas experiencia en jams y desarrollar con mis amigos No mucha, un pequeño juego de terror para una jam y un juego que era mas que todo tarea": "Alto",
-    "Mi motivación principal es el networking y la colaboración interdisciplinaria. Actualmente estoy construyendo una marca personal en LinkedIn enfocada en tecnología y startups, y quiero conectar con el talento local de Arequipa para inspirar a otros desarrolladores.\n​Aunque mi fuerte es el desarrollo de WebApps e Inteligencia Artificial para negocios, quiero salir de mi zona de confort y explorar cómo mis habilidades técnicas pueden integrarse en el desarrollo de videojuegos, un área que siempre me ha fascinado pero que recién empiezo a tocar Tengo experiencia liderando ciclos de desarrollo de software como Product Manager y Fundador de una startup tecnológica. Mi experiencia técnica está en WebApps e IA, pero mi mayor aporte es la capacidad de gestionar el alcance (scope), resolver problemas técnicos bajo presión y asegurar el 'delivery'.\n​Puedo programar lógica general y backend, pero sobre todo busco aportar visión de producto para lograr que el equipo termine un juego pulido y funcional dentro del límite de tiempo, aprendiendo de las herramientas de juego en el proceso.": "Alto",
+    "Mi motivación principal es el networking y la colaboración interdisciplinaria. Actualmente estoy construyendo una marca personal en LinkedIn enfocada en tecnología y startups, y quiero conectar con el talento local de Arequipa para inspirar a otros desarrolladores.\r\n​Aunque mi fuerte es el desarrollo de WebApps e Inteligencia Artificial para negocios, quiero salir de mi zona de confort y explorar cómo mis habilidades técnicas pueden integrarse en el desarrollo de videojuegos, un área que siempre me ha fascinado pero que recién empiezo a tocar Tengo experiencia liderando ciclos de desarrollo de software como Product Manager y Fundador de una startup tecnológica. Mi experiencia técnica está en WebApps e IA, pero mi mayor aporte es la capacidad de gestionar el alcance (scope), resolver problemas técnicos bajo presión y asegurar el 'delivery'.\r\n​Puedo programar lógica general y backend, pero sobre todo busco aportar visión de producto para lograr que el equipo termine un juego pulido y funcional dentro del límite de tiempo, aprendiendo de las herramientas de juego en el proceso.": "Alto",
     "Porque me interesa el evento Experiencia basica": "Alto",
     "Me interesa el evento y participar en esta linda experiencia Cuento con experiencia basica, si me he informado sobre la creacion de videojuego y he desarrollado un par de proyectos e ideas propias": "Alto",
     "Conocer a la comunidad arequipeña que le gusta los videojuegos No tengl experiencia": "Alto",
@@ -300,18 +461,64 @@
     "Deseo aprender y mejorar mis habilidades en el desarrollo de videojuegos, y también conocer nuevas personas a las que también les apasione el desarrollo de videojuegos He intentado desarrollar un videojuego en 2d sin saber mucho sobre el desarrollo de videojuegos, solo siguiendo tutoriales, asi que mi experiencia es casi nula": "Alto"
   },
   "skills": {
+    "Tengo experiencia usando Godot, que justamente tuve que aprender para una JAM. Soy informático de profesión. Por mí parte en un equipo de desarrollo tendría que participar sí o sí en el apartado de programación. Soy Ing. Civil Informático de profesión. Recién titulado, por lo que aparte de las prácticas no he trabajado aún. Me interesa mucho el tema de la IA, pero como pasatiempo el desarrollo de videojuegos.": [
+      "Godot",
+      "Git",
+      "GitHub"
+    ],
+    "Nula. Soy creador de productos digitales, he lanzado +150 productos sumando +400k descargas. Emprendo en agencia de automatización y agencia de desarrollo de software. Builder": [],
+    "La verdad es que no tengo experiencia creando videojuegos pero si tengo interés porque siempre me pareció muy emocionante el imaginarme como se crea un videojuego, tambien creo que me interesa mucho porque yo juego muchos juegos y de alguna forma me da el interés de saber como se crean los videojuegos  Como estudiante estoy estudiando actualmente ingeniería de sistemas pero hasta hora todo lo que vi no es nada relacionado a loa videojuegos sino cosas mas generales, como diseño de paginas web , pero la verdad no tengo experiencia desarrollando videojuegos": [],
+    "He trabajado en el desarrollo de juegos principalmente en proyectos pequeños y prototipos, participando en áreas como programación, diseño de mecánicas y pruebas. He utilizado motores como Unity y herramientas de control de versiones, y tengo experiencia trabajando en equipo bajo plazos cortos, lo que me ha permitido mejorar mis habilidades técnicas y creativas. Soy estudiante y he participado en proyectos académicos donde he desarrollado habilidades de trabajo en equipo, resolución de problemas y aprendizaje autónomo. Me interesa aplicar mis conocimientos en contextos prácticos y seguir creciendo profesionalmente.": [
+      "Unity",
+      "Git",
+      "GitHub"
+    ],
+    "He desarrollado un videojuego P2E complejo antes, con uso en Nigeria principalmente, era un MMORPG de mundo abierto. Yo me encargué de dinámicas, economía y diseño 3D. También estoy desarrollando un juego de mesa versión cooperativa y competitiva. Trabajo en inversiones de capital de riesgo desde el 2022, he fundado un par de startups y fondos alternativos. También he sido docente en colegio y universidad y tengo un podcast educativo. Estudié arte, ingeniería industrial, economía y completé estudios en finanzas y mi maestría en Blockchain.": [],
+    " Hice pequeños jueguitos de genéricos, esos de tutorial.  Estudié computación, y se algo de programación y actualmente estudio artes plásticas. He participado en un par de Game jams q hicieron en isur": [],
+    "No he desarrollado nunca un videojuego, pero me gusta el arte que puede tener uno, la historia que puede contar. Estudie computación e informática, con la idea de desarrollar videojuegos, me gusta la tecnologia trabaje en imprentas, editor de videos, doblaje fandubs , mi profesión seria comerciante vendedor ": [],
+    "En la creación de script, estructurar los niveles del proyecto. Solo en la creación de la estructura en un juego para un curso de la universidad\r\n": [],
+    "He desarrollado un videojuego para cascos de realidad virtual, el cual fue parte de un curso llamado interaccion humano computador donde atraves de ciertos parametros mi grupo y yo desarrollamos un videojuego que cumpla con ellos Soy estudiante de ciencia de la computación en la universidad nacional de san agustin, ya llevo cursando los ultimos ciclos y tengo experiencia como programador ": [],
+    "Participé en game jams de Gdevelop y de Level up, así como desarrollo un videojuego propio y me gusta jugar videojuegos de estrategia. Estudie la carrera de diseño y desarrollo de videojuegos así como estoy haciendo mi propio videojuego de cartas , participé en varias game jams porque me gusta explorar videojuegos y ver sus mecanicas. Así como conocer a los desarrolladores.": [],
+    "He realizado juegos anteriormente en los cuales he sido finalistas en algunas jams como la Patrimonio Game Jam y ganador de la Volcán GameJam. Soy licenciado en Comunicación Social con una Maestría en Comunicación Transmedia ": [],
+    "He participado en la anterior Global Game Jam. Se programación web en un nivel intermedio.": [],
+    "Soy principiante  Fui prácticante en el desarrollo de algunos videos juegos ": [],
+    "He desarrollado principalmente juegos XR pero también anteriormente participe en gamejams para juegos web o desktop Soy de ciencia de la computación y tengo ya algunos años de experiencia trabajando en simuladores o juergos XR y multiplataforma": [],
+    "Tengo poca experiencia en la creación de videojuegos, cree algunos en Unity con estadisticas y diferentes niveles, asi como diseñe personajes con LibreSprite mas que todo pixelados. Bueno la verdad cuando ingrese a ingeniería de sistemas, mi mas grande sueño era poder crear videojuegos, durante la carrera me di cuenta que no era algo rentable pero no me di por vencido y cuando llego la oportunidad decidi aprender a crear videojuegos y a diseñar personajes, quizas no sea un profesional neto en esto pero si se el proceso de como es el desarrollo y que se necesita y sobre todo estoy dispuesto a aprender sobre la marcha.": [
+      "Unity",
+      "C#"
+    ],
+    "Pues he visto ciertos tutoriales para C y unity, pero nada practico Soy estudiante de octavo ciclo de Ingeniería de Sistemas con sólidos conocimientos en Java, C y C++, aplicados en el desarrollo de diversas aplicaciones. Actualmente, me desempeño como practicante de desarrollo web, donde complemento mi formación académica con experiencia en proyectos reales.": [
+      "C",
+      "Java",
+      "C++",
+      "Unity",
+      "Git",
+      "GitHub"
+    ],
+    "Tengo experiencia un poco de experiencia en desarrollo de videojuegos usando el motor de Unity por algunos proyectos de la U. Desarrolle en equipo un videojuego, como un proyecto de estudiantes": [
+      "Unity",
+      "C#"
+    ],
+    "He participado anteriormente en otros eventos de hackathones y tambien de game jam, como de la CVA Soy egresado de la carrera de Ciencias de la Computacion de la UNSA.": [],
+    "Tengo 3 años de experiencia en un real y junior en modelado aún me faltan años para dominar el motor pero ya soy capas de crear videojuegos con optimizaciones para android E terminado mi carrera de ciencias de la computación estoy más metido en la rama de gráficos por computador y un motivo de elección de mi carrera fue la creación de videojuegos ": [],
+    "He participado de varias game jams en itch.io y de las dos anteriores Global Game Jams Arequipa. Tengo algunos juegos cortos en itch.io y algunos proyectos en desarrollo. Me especializo en programación y game design. He estudiado la carrera de computer science (la terminé en diciembre de 2025). Soy primer puesto por promoción de ingreso en la UCSP. A parte de las clases, formé parte de un proyecto de investigación financiado por Concytec y formé parte del equipo de programación competitiva, participando en competiciones como el ICPC.": [],
+    "básico, intermedio. Ya participe en otras game jams 3 game jam 2 hackatones, trabajo de desarrollador de software": [],
+    "Realmente e tenido poca experiencia, solo con pequeños proyectos finales en la universidad Pertenezco a la escuela de Ciencia de la computación, actualmente estoy en el 5to semestre, por lo que tengo algunas nociones más que nada asociadas a proyectos internos": [],
+    "soy 3D artist me gusta hacer modelos 3D  específicamente para videojuegos no e trabajado pero cosas similares si  bueno me gusta hacer personajes y props 3D para VR y AR render e impresión 3d semi realistas pero ahora me gusta mas los modelos estilizados e trabajado en Arequipa y en otros países de forma remota como freelancer": [],
     "No tengo ninguna experiencia al momento de desarrollar videojuegos, he hecho proyectos pequeños pero más de eso no he hecho. Soy un estudiante de séptimo semestre de la carrera de CCOMP de la UCSP, soy apasionado de la programación.": [],
-    "En videojuegos he participado en jams virtuales de 48 horas, como me quiero focalizar en el arte tengo un conocimiento básico de como funciona.  Soy artista conceptual y storybordista en la industria de la animación con 3 años de experiencia. Me especializo en la fase de desarrollo y arte.\nMe he formado como animadora digital y he tomado diferentes cursos de diseño y narrativa. Actualmente estudió Artes Plásticas para afinar mis habilidades. ": [],
+    "En videojuegos he participado en jams virtuales de 48 horas, como me quiero focalizar en el arte tengo un conocimiento básico de como funciona.  Soy artista conceptual y storybordista en la industria de la animación con 3 años de experiencia. Me especializo en la fase de desarrollo y arte.\r\nMe he formado como animadora digital y he tomado diferentes cursos de diseño y narrativa. Actualmente estudió Artes Plásticas para afinar mis habilidades. ": [],
     "tengo una experiencia basica en desarrollo de videojuegos en la carrera hice algunos en scratch soy egresado de la carrera de ing de sistemas, actualmente me dedico al desarrollo web, y tambien desarrolle juegos  en javascript  ": [
       "Scratch",
-      "JavaScript"
+      "JavaScript",
+      "Git",
+      "GitHub"
     ],
     "Tengo experiencia en desarrollo web, pero no en desarrollo de juegos Soy estudiante de ing sistemas y tengo experiencia en el desarrollo web y apps": [],
     "Uno de mis primeros proyectos en la Universidad, fue un juego de roles. Siempre tuve curiosidad, pero nunca tuve la oportunidad de poner a prueba mi talento.  Tengo experiencia en Programación de desarrollo web y hacking etico": [],
     "Realize con un equipo un proyecto con pygame juegos retro sencillos porque era nuevo para nosotros  Busco aumentar mi conocimiento en diversas cosas ya sea profesionalmente como para la vida en si, porque ser estudiante no es únicamente aprender por aprender sino saber utilizar todo lo que aprendes": [],
-    "Tengo experiencia desarrollando video juegos como proyectos universitarios. Todos son bastante pequeños y con fines académicos.  Estoy en mi cuarto año de estudios en la carrera de ciencia de la computación. Me interesa mucho las áreas de desarrollo de video juegos e inteligencia artificial. \nEn enero del 2025 estudié en Mount Royal University (Calgary, Canadá) al participar y ganar un concurso de movilidad estudiantil en la universidad católica San Pablo; y también recibí una beca del gobierno canadiense (ELAP). Tengo buenas relaciones con mis compañeros y profesores en la universidad. Me apasiona seguir aprendiendo y utilizar lo aprendido. ": [],
+    "Tengo experiencia desarrollando video juegos como proyectos universitarios. Todos son bastante pequeños y con fines académicos.  Estoy en mi cuarto año de estudios en la carrera de ciencia de la computación. Me interesa mucho las áreas de desarrollo de video juegos e inteligencia artificial. \r\nEn enero del 2025 estudié en Mount Royal University (Calgary, Canadá) al participar y ganar un concurso de movilidad estudiantil en la universidad católica San Pablo; y también recibí una beca del gobierno canadiense (ELAP). Tengo buenas relaciones con mis compañeros y profesores en la universidad. Me apasiona seguir aprendiendo y utilizar lo aprendido. ": [],
     "Cuando recién aprendía a programar recree el juego Snake en Python, fue bastante simple y tenía mucho margen de mejora, también participe en un evento competitivo de la ACM donde debías darle un comportamiento a una nave para ser la única que quede en pie, por falta de tiempo no pude presentar un bot destacable. Termine la carrera de Ciencias de la Computación y actualmente me dedico a fullstack con dominio en AWS, me interesa crear servicios de excelencia que los usuarios puedan usar de manera intuitiva": [],
-    "Tuve la experiencia participando en una game board Jam, donde aprendí más sobre la mecánica de los juegos.\nY como proyecto personal desarrollé juegos de mesa e implementé un sistema de gamificación en mi trabajo. Del mismo modo tengo proyectos de aplicaciones móviles con los que participé en hackatones donde implementé características de la gamificación.\n\nPero sobre todo tengo una alta experiencia en diseño de productos multimedia respecto a frontend. Soy licenciada en Publicidad y Multimedia, con una formación académica sólida y orientada a la excelencia. Me gradué en la Universidad Católica de Santa María ocupando el primer puesto y recibiendo reconocimientos por alto rendimiento académico, y actualmente continúo mi desarrollo profesional cursando la especialidad de Relaciones Públicas en la UNSA y la Maestría en Marketing y Comunicación. Mi perfil integra conocimientos en publicidad, marketing digital, investigación, diseño y gestión de la comunicación, con una mirada estratégica aplicada a proyectos creativos y corporativos. \n\nEn el ámbito profesional, he desarrollado experiencia tanto en agencias de publicidad como en proyectos propios y de impacto social. Me desempeño como Strategic Planner Junior en la agencia Moon, donde participo en la planificación de campañas, investigación de mercados, creación de contenido y diseño de piezas publicitarias. Además, soy cofundadora de iniciativas como FLY y Hi! Chik, en las que lidero equipos, diseño estrategias generales y planes operativos, y participo en el diseño UX/UI de plataformas digitales. También he asumido roles de responsabilidad en organizaciones estudiantiles y voluntariados, aportando desde la comunicación, el branding y la gestión estratégica. \n\nMi trayectoria se complementa con diversos premios y reconocimientos en concursos nacionales e internacionales de publicidad, innovación y emprendimiento, así como con mi participación como ponente y tallerista en congresos, festivales y espacios académicos. Asimismo, soy coautora de publicaciones científicas y tesis vinculadas al marketing digital y la comunicación. Todo este recorrido refleja mi interés por liderar proyectos con propósito, combinando creatividad, estrategia y compromiso para generar impacto real desde la comunicación.": [],
+    "Tuve la experiencia participando en una game board Jam, donde aprendí más sobre la mecánica de los juegos.\r\nY como proyecto personal desarrollé juegos de mesa e implementé un sistema de gamificación en mi trabajo. Del mismo modo tengo proyectos de aplicaciones móviles con los que participé en hackatones donde implementé características de la gamificación.\r\n\r\nPero sobre todo tengo una alta experiencia en diseño de productos multimedia respecto a frontend. Soy licenciada en Publicidad y Multimedia, con una formación académica sólida y orientada a la excelencia. Me gradué en la Universidad Católica de Santa María ocupando el primer puesto y recibiendo reconocimientos por alto rendimiento académico, y actualmente continúo mi desarrollo profesional cursando la especialidad de Relaciones Públicas en la UNSA y la Maestría en Marketing y Comunicación. Mi perfil integra conocimientos en publicidad, marketing digital, investigación, diseño y gestión de la comunicación, con una mirada estratégica aplicada a proyectos creativos y corporativos. \r\n\r\nEn el ámbito profesional, he desarrollado experiencia tanto en agencias de publicidad como en proyectos propios y de impacto social. Me desempeño como Strategic Planner Junior en la agencia Moon, donde participo en la planificación de campañas, investigación de mercados, creación de contenido y diseño de piezas publicitarias. Además, soy cofundadora de iniciativas como FLY y Hi! Chik, en las que lidero equipos, diseño estrategias generales y planes operativos, y participo en el diseño UX/UI de plataformas digitales. También he asumido roles de responsabilidad en organizaciones estudiantiles y voluntariados, aportando desde la comunicación, el branding y la gestión estratégica. \r\n\r\nMi trayectoria se complementa con diversos premios y reconocimientos en concursos nacionales e internacionales de publicidad, innovación y emprendimiento, así como con mi participación como ponente y tallerista en congresos, festivales y espacios académicos. Asimismo, soy coautora de publicaciones científicas y tesis vinculadas al marketing digital y la comunicación. Todo este recorrido refleja mi interés por liderar proyectos con propósito, combinando creatividad, estrategia y compromiso para generar impacto real desde la comunicación.": [],
     "Solo en la universidad  En proyecto de universidad, pero José concreto por completo ": [],
     "Terminé la carrera de desarrollo de sistemas de información, no tengo mucha experiencia desarrollando juegos mas que los puede hacer en la carrera pero si es una rama que me gustaría explorar Tengo 2 carreras termiandas, Ingeniería Civil y Desarrollo de sistemas de Inforamción, mi interes es poder crear un juego que relacione la carrera de civil que ayude a estudiantes a encontrarse con situaciones típicas y estén mejor preparados para el futuro": [],
     "No tengo experiencia em videojiegos pero realizo apps mobiles y paginas web Soy desarrolladora de sistemas y contadora , trmgo experiencia laboral en ambas ramas y me gusta la capacidad de creatividad e innovacion en el desarrollo de programas": [],
@@ -349,19 +556,20 @@
     "No se mucho pero quisiera algun dia aprender con ustedes y darle con todo  Soy estudiante de la carrera de administración de la undc tuve experiencia como volunatrio y asustente en marketing ": [],
     "En un grupo para el desarrollo de un videojuego participé en el desarrollo de su historia y el dibujo de algunos sprites para enemigos y niveles. Aún me encuentro estudiando en la carrera de Ing. de Sistemas y me interesa mucho el área de desarrollo de videojuegos": [],
     "Poseo experiencia en el desarrollo de proyectos complejos que involucran arte, diseño, programación, sonido, implementación de sistemas/agentes de IA. Mi última participación en un evento similar fue en \"Patrimonio Game Jam\" organizado por el ministerio de Cultura del Perú donde con mi equipo obtuvimos el 3er puesto a nivel nacional. Estoy cursando el último año de la carrera de Ingeniería de sistemas, suelo participar en el desarrollo de proyectos no relacionados a videojuegos.": [],
-    "Solo en proyectos personales y de cursos en la universidad  Desarrollo de juegos educativos usando Scratch ": [],
+    "Solo en proyectos personales y de cursos en la universidad  Desarrollo de juegos educativos usando Scratch ": [
+      "Scratch"
+    ],
     "Mi experiencia es breve, se de algunos conceptos, utilice motores para ver cual me llamaba la atención, cree juegos simples, diseñe algunos niveles y algunas historias. Soy estudiante de ciencia de la computación que actualmente está cursando en 7mo semestre, sobre mi experiencia profesional estoy en busca de empleo como full-stack developer pero también como junior game developer.": [],
     "Tengo poca experiencia, participe en otra ggj el año pasado, y tambien he practicado un poco en mis tiempos libres Soy estudiante de la UNSA, ahora estoy en mi 3er año, aunq mi carrera este relacionada a la programacion no abarca mucho el desarrollo de videojuegos, asi que en esa parte estoy aprendiendo por mi cuenta, tanto en lo que se requiere a codigo, diseño, arte, etc.": [],
     "No he hecho mucho, solo proyectos muy chicos. Soy estudiante de septimo semestre de computación": [],
     "Si tengo experiencia jugando videojuegos Bueno soy estudiante no soy tan profesional pero tengo habilidades jugando ": [],
-    "Desarrollo de un videojuego en Java como proyecto final académico.\n\nParticipación en el Global Game Jam 2025 (UCSP), contribuyendo al desarrollo de un videojuego en Godot bajo un entorno colaborativo y de tiempo limitado.\n\nCreación de un videojuego RTS 3D en Godot como proyecto académico del VI semestre.\n\nHabilidades: programación, diseño gráfico, composición musical y trabajo en equipo. Soy estudiante del VII semestre de Ingeniería de Sistemas en la Universidad Nacional de San Agustín y participo activamente en hackatones para desarrollar ideas que resuelvan problemas reales. En el área de desarrollo de videojuegos, tengo experiencia utilizando Godot y Unity, donde he trabajado en distintos proyectos académicos y personales.": [
+    "Desarrollo de un videojuego en Java como proyecto final académico.\r\n\r\nParticipación en el Global Game Jam 2025 (UCSP), contribuyendo al desarrollo de un videojuego en Godot bajo un entorno colaborativo y de tiempo limitado.\r\n\r\nCreación de un videojuego RTS 3D en Godot como proyecto académico del VI semestre.\r\n\r\nHabilidades: programación, diseño gráfico, composición musical y trabajo en equipo. Soy estudiante del VII semestre de Ingeniería de Sistemas en la Universidad Nacional de San Agustín y participo activamente en hackatones para desarrollar ideas que resuelvan problemas reales. En el área de desarrollo de videojuegos, tengo experiencia utilizando Godot y Unity, donde he trabajado en distintos proyectos académicos y personales.": [
       "Godot",
-      "Java",
-      "Unity"
+      "Java"
     ],
     "Desarrollo de animación ciclica en Juegos en adobe flash, esto ya hace unos años Conocimientos prácticos y teóricos de diseño de personajes, estilo \"Fortiche production\"": [
       "Adobe Flash",
-      "Blender"
+      "diseño de personajes"
     ],
     "Lleve un máster en programación de videojuegos en Valencia España y el trabajado en diferentes lugares como programador pero nada de nivel AAA Trabaje para bsg Institute como programador de aplicaciones gamificadas tipo Duolingo usando unity": [
       "Unity",
@@ -375,7 +583,7 @@
     "Poca o nula en videojuegos, mas que nada en juegos de Mesa y juegos de cartas (tcg) Ingenieria industrial, pasion por los idiomas y la matematica Pura y aplicada": [],
     "He llevado cursos relacionados y tengo experiencia en desarrollo  Actualmente estoy en 4to año de universidad, me considero capaz para desarrollar paginas web y aplicaciones, por supuesto también el desarrollo de juegos 2.5D": [],
     "No mucha, un pequeño juego de terror para una jam y un juego que era mas que todo tarea los estudios me introdujeron a este \"mundo\" y me agrado": [],
-    "Tengo experiencia liderando ciclos de desarrollo de software como Product Manager y Fundador de una startup tecnológica. Mi experiencia técnica está en WebApps e IA, pero mi mayor aporte es la capacidad de gestionar el alcance (scope), resolver problemas técnicos bajo presión y asegurar el 'delivery'.\n​Puedo programar lógica general y backend, pero sobre todo busco aportar visión de producto para lograr que el equipo termine un juego pulido y funcional dentro del límite de tiempo, aprendiendo de las herramientas de juego en el proceso. Tengo un perfil híbrido: soy estudiante de Ciencias de la Computación y profesional activo como Product Manager y Desarrollador.\n​Mi trayectoria se centra en el desarrollo de WebApps escalables e integración de IA para negocios. En mi día a día gestiono equipos de programación bajo la metodología Scrumban, por lo que estoy acostumbrado a resolver problemas técnicos complejos y a trabajar bajo objetivos claros, habilidades que quiero trasladar al desarrollo de videojuegos": [],
+    "Tengo experiencia liderando ciclos de desarrollo de software como Product Manager y Fundador de una startup tecnológica. Mi experiencia técnica está en WebApps e IA, pero mi mayor aporte es la capacidad de gestionar el alcance (scope), resolver problemas técnicos bajo presión y asegurar el 'delivery'.\r\n​Puedo programar lógica general y backend, pero sobre todo busco aportar visión de producto para lograr que el equipo termine un juego pulido y funcional dentro del límite de tiempo, aprendiendo de las herramientas de juego en el proceso. Tengo un perfil híbrido: soy estudiante de Ciencias de la Computación y profesional activo como Product Manager y Desarrollador.\r\n​Mi trayectoria se centra en el desarrollo de WebApps escalables e integración de IA para negocios. En mi día a día gestiono equipos de programación bajo la metodología Scrumban, por lo que estoy acostumbrado a resolver problemas técnicos complejos y a trabajar bajo objetivos claros, habilidades que quiero trasladar al desarrollo de videojuegos": [],
     "Experiencia basica Actualmente estoy en octavo ciclo": [],
     "Cuento con experiencia basica, si me he informado sobre la creacion de videojuego y he desarrollado un par de proyectos e ideas propias He desarrollado un par de ideas propias con un grupo de amigos.": [],
     "No tengl experiencia Soy bachiller en Psicología y me gustan los ambientes que fomenta el juego en grupos": [],

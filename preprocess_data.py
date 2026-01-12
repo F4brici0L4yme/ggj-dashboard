@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('./data/Fillout GGJ26_INSCRIPCION results.csv')
+df = pd.read_csv('../Fillout GGJ26_INSCRIPCION results.csv')
 
 columnas_eliminar = [
     'Submission ID',
